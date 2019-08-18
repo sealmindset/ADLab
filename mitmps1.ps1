@@ -28,7 +28,7 @@ if(Test-Connection -ComputerName $RemoteComputer -Count 1 -Quiet) {
             }
 
         } else {
-            Write-Host "Cannot authenticate using $PlainUsername using $PlainPassword against $AllDCs"
+            Write-Host "Cannot authenticate $PlainUsername : $PlainPassword against $AllDCs"
         }
     } else {
         Write-Host "$RemoteComputer WsMan appears to be down"
