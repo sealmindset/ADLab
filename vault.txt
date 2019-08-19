@@ -1,3 +1,5 @@
+https://www.conjur.org/blog/conjur-store-n-fetch/
+
 https://www.vaultproject.io/api/libraries.html
 https://www.serverlab.ca/tutorials/linux/administration-linux/how-to-install-hashicorp-vault-on-linux/
 https://devopscube.com/setup-hashicorp-vault-beginners-guide/
